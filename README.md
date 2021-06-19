@@ -9,6 +9,9 @@ const omarsProfile = {
   tools: [Angular 2+, Loopback, Express, Redux, Node, Docker]
 }
 ```
+You can find me 🗺️:
+- [Facebook](https://facebook.com/)
+- [Twitter](https://twitter.com/)
 
 <!--
 **omarsalas94/omarsalas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
