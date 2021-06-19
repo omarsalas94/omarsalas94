@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Omar 👋
+
+![me](https://916256.smushcdn.com/2265571/wp-content/uploads/2019/03/desarrolloweb-1232x409.png?lossy=1&strip=1&webp=1)
+
+``` js
+const omarsProfile = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [Angular 2+, Loopback, Express, Redux, Node, Docker]
+}
+```
 
 <!--
 **omarsalas94/omarsalas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
