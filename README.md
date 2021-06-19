@@ -14,6 +14,7 @@
 </a>
 -->
 
+## About me
 
 ``` js
 const omarsProfile = {
@@ -22,7 +23,9 @@ const omarsProfile = {
   tools: [Angular 2+, Loopback, Express, Redux, Node, Docker]
 }
 ```
-You can find me 🗺️:
+
+
+## You can find me 🗺️:
 - [Facebook](https://facebook.com/)
 - [Twitter](https://twitter.com/)
 
